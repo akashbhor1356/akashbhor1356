@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Akash Bhor </h1>
 <h3 align="center">Data Scientist and Machine Learning Engineer with 2 years of experience in Machine Learning and Data Science. Well informed on latest Data Science advancements. Ready to thrive in demanding Digital Intelligence. Looking forward with more opportunities for Industrial experience.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jainil-coder&label=Profile%20views&color=0e75b6&style=flat" alt="akash bhor" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashbhor-coder&label=Profile%20views&color=0e75b6&style=flat" alt="akash bhor" /> </p>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -18,7 +18,7 @@
 - 📫 How to reach me:  ✔️[Linkedin](https://www.linkedin.com/in/akash-bhor-b62503149/) ✔️[Mail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=akashbhor111@gmail.com.com&su=SUBJECT&body=BODY&tf=1)
 - ⚡ Fun fact:  Right now I'm looking at you, 'cause you're looking at me.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Akash-Bhor&label=Profile%20views&color=0e75b6&style=flat-square" alt="akashbhor" /> </p>
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people </b>so if you want to say hi, <b> I'll be happy to meet you more!</b> 😊</em>
 
 

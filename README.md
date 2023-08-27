@@ -88,3 +88,5 @@
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white">
     <img alt="Windows terminal" src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?logo=windows%20terminal&logoColor=white">
 </p>
+</p>
+    ### Thank you!

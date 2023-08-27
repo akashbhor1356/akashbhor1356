@@ -1,4 +1,9 @@
-### Hello Everyone, I'm Akash Bhor [ ](https://i.pinimg.com/originals/bb/82/21/bb82217d6c6a89cad939f8c8567f6171.gif)!
+
+<h1 align="center">Hi 👋, I'm Akash Bhor </h1>
+<h3 align="center">Data Scientist and Machine Learning Engineer with 2 years of experience in Machine Learning and Data Science. Well informed on latest Data Science advancements. Ready to thrive in demanding Digital Intelligence. Looking forward with more opportunities for Industrial experience.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jainil-coder&label=Profile%20views&color=0e75b6&style=flat" alt="akash bhor" /> </p>
+ [ ](https://i.pinimg.com/originals/bb/82/21/bb82217d6c6a89cad939f8c8567f6171.gif)!
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ### A passionate Data Science from India
